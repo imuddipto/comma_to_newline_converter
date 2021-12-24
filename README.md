@@ -1,0 +1,1 @@
+This code can be used to organize data if given file contains data seperated by commas and include random whitespaces. The output will organize the data such that they are seperated by newline characters only.
